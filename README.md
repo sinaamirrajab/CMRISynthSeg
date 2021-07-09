@@ -1,5 +1,5 @@
 # CMRISynthSeg
-SPADE synthesis for CMR, a usage instruction will be added soon
+SPADE-based synthesis for CMRI data , a usage instruction will be added soon
 
 
 ## Acknowledgments
