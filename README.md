@@ -1,5 +1,5 @@
 # CMRISynthSeg
-SPADE synthesis with segmentation-based discriminator
+SPADE synthesis for CMR, a usage instruction will be added soon
 
 
 ## Acknowledgments
